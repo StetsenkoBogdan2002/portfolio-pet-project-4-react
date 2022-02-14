@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio-pet-project-4-react/static/css/main.057e96f3.chunk.css",
+    "main.js": "/portfolio-pet-project-4-react/static/js/main.e98ca322.chunk.js",
+    "main.js.map": "/portfolio-pet-project-4-react/static/js/main.e98ca322.chunk.js.map",
+    "runtime-main.js": "/portfolio-pet-project-4-react/static/js/runtime-main.9dc1ac73.js",
+    "runtime-main.js.map": "/portfolio-pet-project-4-react/static/js/runtime-main.9dc1ac73.js.map",
+    "static/js/2.ee8003b7.chunk.js": "/portfolio-pet-project-4-react/static/js/2.ee8003b7.chunk.js",
+    "static/js/2.ee8003b7.chunk.js.map": "/portfolio-pet-project-4-react/static/js/2.ee8003b7.chunk.js.map",
+    "index.html": "/portfolio-pet-project-4-react/index.html",
+    "static/css/main.057e96f3.chunk.css.map": "/portfolio-pet-project-4-react/static/css/main.057e96f3.chunk.css.map",
+    "static/js/2.ee8003b7.chunk.js.LICENSE.txt": "/portfolio-pet-project-4-react/static/js/2.ee8003b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dc1ac73.js",
+    "static/js/2.ee8003b7.chunk.js",
+    "static/css/main.057e96f3.chunk.css",
+    "static/js/main.e98ca322.chunk.js"
+  ]
+}
